@@ -1,3 +1,3 @@
 # TnC
 
-Tnc is a website where you can type the keyboard to produce the Drum kit music.
+Tnc is a website where you can type in the keyboard to produce the Drum kit music.
